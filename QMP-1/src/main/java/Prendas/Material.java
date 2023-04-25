@@ -1,0 +1,17 @@
+package Prendas;
+
+public enum Material {
+  ALPACA,
+  ALGODON,
+  PLUMAS,
+  GENERO_RIZO_AMERICANO,
+  JEANS,
+  KASHMIR,
+  CUERO,
+  LINO,
+  TEJIDOS_MIXTOS,
+  POPELIN,
+  SEDA,
+  FIBRAS_SINTETICAS,
+  LANA
+}
